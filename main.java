@@ -1,10 +1,10 @@
 public class Main {
   public static void main(String[] args) {
-    // System.out.println("Hello world!");
-    // winter, spring, summer, autumn
-    // warm jacket, t-shirt, swimming suite, rain coat
+  // System.out.println("Hello world!");
+  // winter, spring, summer, autumn
+  // warm jacket, t-shirt, swimming suite, rain coat
     String season = "qwerty";
-
+  
     if (season == "winter") {
       System.out.println("Wear a warm jacket!");
     } else if (season == "spring") {
@@ -17,3 +17,4 @@ public class Main {
       System.out.println("I do not recognize the season!");
     }
   }
+}
